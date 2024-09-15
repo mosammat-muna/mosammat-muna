@@ -12,7 +12,6 @@
 </br>
 - 📧 Email: <a href="mailto:mosammatmuna1@gmail.com">mosammatmuna1@gmail.com</a>
 </br>
-📬 Email: <a href="mailto:mosammatmuna1@gmail.com">mosammatmuna1@gmail.com</a>
 </p>
 
 ## 💻 Tech Stack:
