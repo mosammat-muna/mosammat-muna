@@ -3,7 +3,6 @@
 - 💻 **Software Engineer** with a background in **Data Engineering** and **Product Management**.  
 - 🌐 Experience as a **Data Engineer at Morgan Stanley** and **Product Manager at Comcast**.  
 - 🎓 Currently pursuing a **Bachelor's degree in Computer Science at CUNY Baruch College(Graduating Fall 2024)**.  
-- 💡 Skilled in **Python, Java, SQL, Tableau, and Figma**.  
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
