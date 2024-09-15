@@ -1,3 +1,24 @@
+# Hi, I'm Muna 👋
+
+- 💻 **Software Engineer** with a background in **Data Engineering** and **Product Management**.  
+- 🌐 Experience as a **Data Engineer at Morgan Stanley** and **Product Manager at Comcast**.  
+- 🎓 Currently pursuing a **Bachelor's degree in Computer Science at Baruch College**.  
+- 💡 Skilled in **Python, Java, SQL, Tableau, and Figma**.  
+
+## 🌐 Connect with me:
+
+[Linkdle](<your-linkdle-url>)
+
+## 💻 Technology and Tools:
+
+- **Python**
+- **Java**
+- **SQL**
+- **Tableau**
+- **Figma**
+
+
+
 <h1 align="center">Hi 👋, I'm Muna</h1>
 <h3 align="center">Software Engineer with a background in Data Engineering and Product Management. I have experience working as a Data Engineer at Morgan Stanley and as a Product Manager at Comcast. Currently pursuing a bachelor's degree in Computer Science at Baruch College(Graduating Fall 2024)</h3>
 
