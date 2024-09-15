@@ -2,10 +2,10 @@
 
 - 💻 **Software Engineer** with a background in **Data Engineering** and **Product Management**.  
 - 🌐 Experience as a **Data Engineer at Morgan Stanley** and **Product Manager at Comcast**.  
-- 🎓 Currently pursuing a **Bachelor's degree in Computer Science at CUNY Baruch College(Graduating Fall 2024)**.  
+- 🎓 Currently pursuing a **Bachelor's degree in Computer Science at CUNY Baruch College (Graduating Fall 2024)**.  
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/mosammatmuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </br>
 - 💼 LinkedIn: <a href="https://linkedin.com/in/mosammatmuna" target="_blank">https://linkedin.com/in/mosammatmuna</a> 
