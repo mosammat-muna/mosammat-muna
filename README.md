@@ -1,7 +1,7 @@
 # Hi, I'm Muna 👋
 
 - 💻 **Software Engineer** with a background in **Data Engineering** and **Product Management**.  
-- 🌐 Experience as a **Data Engineer at Morgan Stanley** and **Product Manager at Comcast**.  
+- 🌐 Experience as a **Data Engineer at Morgan Stanley** and **Product Manager at Comcast** and **Software Engineer at BNY Mellon**.  
 - 🎓 Currently pursuing a **Bachelor's degree in Computer Science at CUNY Baruch College (Graduating Fall 2024)**.  
 
 <h3 align="left">🌐 Connect with me:</h3>
