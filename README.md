@@ -5,9 +5,10 @@
 - 🎓 Currently pursuing a **Bachelor's degree in Computer Science at CUNY Baruch College(Graduating Fall 2024)**.  
 - 💡 Skilled in **Python, Java, SQL, Tableau, and Figma**.  
 
-## 🌐 Connect with me:
-
-[Linkdle](<[your-linkdle-url](https://linkedin.com/in/www.linkedin.com/in/mosammatmuna)>)
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mosammatmuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mosammatmuna" height="30" width="40" /></a>
+</p>
 
 ## 💻 Technology and Tools:
 
