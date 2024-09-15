@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mosammatmuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </br>
-- Email: <a href="mailto:mosammatmuna1@gmail.com">mosammatmuna1@gmail.com</a>
+- 📬 Email: <a href="mailto:mosammatmuna1@gmail.com">mosammatmuna1@gmail.com</a>
 </p>
 
 ## 💻 Tech Stack:
